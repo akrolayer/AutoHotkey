@@ -15,7 +15,7 @@ ScrollLock & w Up::MouseClick,left,,,,,U
 ScrollLock & R::MouseClick,right,,,,,D
 ScrollLock & R Up::MouseClick,right,,,,,U
 
-;;無変換キー＋CTRLでマウス移動
+;;無変換キー＋キーでマウス移動
 ScrollLock & s:: MouseMove, -20,0,0,R
 ScrollLock & f:: MouseMove, 20,0,0,R
 ScrollLock & e:: MouseMove, 0,-20,0,R
